@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a705fede-b412-47f2-8bb0-621ed24f79da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/approche-imperative.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/boulcles/ExerciceBoucleBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/boulcles/ExerciceBouclesEtTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/boulcles/ExerciceTableauEntier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/declaration/variable/DeclarationApp.java" afterDir="false" />
+    <list default="true" id="a705fede-b412-47f2-8bb0-621ed24f79da" name="Changes" comment="introduction java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/boulcles/ExerciceBouclesEtTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/boulcles/ExerciceBouclesEtTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/boulcles/ExerciceTableauEntier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/boulcles/ExerciceTableauEntier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1707741521867</updated>
       <workItem from="1707741523252" duration="5083000" />
-      <workItem from="1707811612347" duration="5883000" />
+      <workItem from="1707811612347" duration="7733000" />
     </task>
+    <task id="LOCAL-00001" summary="introduction java">
+      <option name="closed" value="true" />
+      <created>1707820128863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707820128863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="introduction java" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduction java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
